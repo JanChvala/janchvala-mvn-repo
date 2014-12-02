@@ -2,11 +2,11 @@
 <metadata>
   <groupId>cz.janchvala.android.betterpickers</groupId>
   <artifactId>library</artifactId>
-  <version>1.5.3.1</version>
+  <version>1.5.3.2</version>
   <versioning>
     <versions>
-      <version>1.5.3.1</version>
+      <version>1.5.3.2</version>
     </versions>
-    <lastUpdated>20141202084815</lastUpdated>
+    <lastUpdated>20141202130544</lastUpdated>
   </versioning>
 </metadata>
